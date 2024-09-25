@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "turtle-wow.org",
+        "cn.turtle-wow.org",
+        "plashspeed.top",
+	"nfuwow.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".turtle-wow.org",
+        "cn.turtle-wow.org",
+        "plashspeed.top",
+        "nfuwow.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "turtle-wow",
+	"datapacket.com",
+	"nfuwow.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "169.150.222.223/32",
+        "172.67.73.227/32",
+        "169.150.222.70/32"
+      ]
+    }
+  ]
+}
