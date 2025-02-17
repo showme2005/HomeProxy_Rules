@@ -45,6 +45,8 @@
         "sfo3.turn.livekit.cloud",
         "static.cloudflareinsights.com",
         "sydney.bing.com",
+        "cn-greasyfork.org",
+        "greasyfork.org",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
     },
@@ -52,6 +54,8 @@
       "domain_keyword": [
         "openai",
         "openaicom",
+        "greasyfork",
+        "cn-greasyfork",
         "openaicom-api"
       ]
     },
@@ -119,6 +123,8 @@
         "sentry.io",
         "stripe.com",
         "turn.livekit.cloud",
+        "greasyfork",
+        "cn-greasyfork",
         "x.ai"
       ]
     },
